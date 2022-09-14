@@ -1,7 +1,7 @@
 # Projeto Docker Todo List desenvolvido na Trybe.
 # Observação: O front end foi desenvolvido pela Trybe, no front trabalhei somente com a configuração do docker.
 
-## Requisitos para desenvolvimento do projeto:
+## Requisitos propostos para desenvolvimento do projeto:
 ### 1. Crie um container em modo interativo, sem rodá-lo, nomeando-o como `01container` e utilizando a imagem `alpine` na versão `3.12`
 
 ### 2. Inicie o container `01container`
